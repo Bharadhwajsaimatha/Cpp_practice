@@ -1,0 +1,4 @@
+# ignoring vscode cache
+
+.vscode/
+
