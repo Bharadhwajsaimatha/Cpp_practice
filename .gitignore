@@ -2,3 +2,5 @@
 
 .vscode/
 
+#ignoring any .exe files
+*.exe
